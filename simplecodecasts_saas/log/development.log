@@ -3163,3 +3163,793 @@ Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-
 
 
 Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 10:47:40 +0000
+
+
+Started GET "/" for 93.43.200.26 at 2016-12-01 11:02:11 +0000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 136ms (Views: 135.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 119ms (Views: 117.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:13 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:14 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:02:14 +0000
+
+
+Started GET "/" for 93.43.200.26 at 2016-12-01 11:02:15 +0000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 120ms (Views: 119.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 194ms (Views: 192.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:02:49 +0000
+
+
+Started GET "/" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 180ms (Views: 178.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:03 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 178ms (Views: 176.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:04 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:05 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:04:05 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:04:05 +0000
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:06:06 +0000
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (6.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 149ms (Views: 146.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:06 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:06 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:06 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:06:07 +0000
+
+
+Started GET "/users/sign_up" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+Processing by Devise::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 124ms (Views: 122.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:27 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:28 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:06:28 +0000
+
+
+Started GET "/users/sign_up" for 93.43.200.26 at 2016-12-01 11:06:28 +0000
+Processing by Devise::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 136ms (Views: 134.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:06:29 +0000
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 168ms (Views: 166.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:06:30 +0000
+
+
+Started GET "/users/sign_up" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+Processing by Devise::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 117ms (Views: 114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:06:31 +0000
+
+
+Started GET "/users/sign_up" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 248ms (Views: 245.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:48 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:49 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:49 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:49 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:11:49 +0000
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 132ms (Views: 130.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 110ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:55 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:56 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:56 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:11:56 +0000
+
+
+Started GET "/users/sign_up" for 93.43.200.26 at 2016-12-01 11:11:57 +0000
+Processing by Devise::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 116ms (Views: 114.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:11:58 +0000
+
+
+Started GET "/users/sign_in" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"authenticity_token"=>"/cp9DkBVG6z87Nq6//4lHbguYz7sqwwjFFafdF9gPsA="}
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 194ms (Views: 192.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/application.css?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
