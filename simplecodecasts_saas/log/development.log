@@ -3953,3 +3953,9 @@ Started GET "/assets/bootstrap-sprockets.js?body=1" for 93.43.200.26 at 2016-12-
 
 
 Started GET "/assets/font-awesome/fontawesome-webfont.woff" for 93.43.200.26 at 2016-12-01 11:12:01 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddDeviseToUsers (20161204190531)
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.4ms)[0m  [1mALTER TABLE "users" ADD "email" varchar(255) DEFAULT '' NOT NULL[0m
+SQLite3::SQLException: duplicate column name: email: ALTER TABLE "users" ADD "email" varchar(255) DEFAULT '' NOT NULL
+  [1m[35m (0.1ms)[0m  rollback transaction
